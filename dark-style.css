@@ -1,0 +1,78 @@
+*
+{
+    transition: 0.5s ease !important;
+    font-family: Google Sans;
+    color: #f8f9fa !important;
+}
+body
+{
+    background-image: url('https://wallpapercave.com/wp/wp2163572.jpg');
+    background-size: cover;
+    background-position: top left;
+}
+.card-header
+{
+    border-bottom: 1px solid gray !important;
+}
+.card, .jumbotron
+{
+    background-color: #343a40;
+}
+.card
+{
+    border: 1px solid gray;
+}
+.card-body
+{
+    font-size: 35px;
+}
+.small
+{
+    font-size: 18px;
+}
+.img
+{
+    width: 100% !important;
+}
+.logos
+{
+    height: 100%;
+}
+.dark-mode
+{
+    width: 100px;
+    text-align: left;
+    padding: 0px;
+    outline: none !important;
+}
+.form-control-plaintext
+{
+    line-height: 35px;
+    font-size: 35px;
+}
+.arduino-logo
+{
+    transition: ease 0.1s;
+    background-color: #e9ecef !important;
+    margin: auto;
+    padding: 0px;
+    height: 100%;
+    width: 66px;
+    border-radius: 0.25rem;
+}
+.nav-link
+{
+    height: 50px !important;
+    padding: 0px !important;
+}
+.jumbotron
+{
+    border-radius: 0px;
+    padding-top: 45px;
+    height: 190px;
+    border-top: 1px solid gray !important;
+}
+.navbar
+{
+    background-color: #343a40 !important;
+}
