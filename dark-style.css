@@ -67,7 +67,7 @@ body
 .nav-link
 {
     height: 50px !important;
-    padding: 0px !important;
+    padding: 5px !important;
 }
 .jumbotron
 {
@@ -77,4 +77,25 @@ body
 .navbar
 {
     background-color: #343a40 !important;
+}
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #e9ecef;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: #e9ecef;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #abafb4; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    border-bottom: 1px solid gray !important;
 }
