@@ -4,6 +4,10 @@
     font-family: Google Sans;
     color: #f8f9fa !important;
 }
+html, body
+{
+    height: 100%;
+}
 body
 {
     background-image: url('https://wallpapercave.com/wp/wp2163572.jpg');
@@ -68,8 +72,6 @@ body
 .jumbotron
 {
     border-radius: 0px;
-    padding-top: 45px;
-    height: 190px;
     border-top: 1px solid gray !important;
 }
 .navbar
